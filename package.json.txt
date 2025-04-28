@@ -1,0 +1,14 @@
+{
+  "name": "chibizz-mint-bot",
+  "version": "1.0.0",
+  "description": "telegram bot for chibizz mints",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@helius-labs/webhooks": "^1.2.3",
+    "@solana/web3.js": "^1.92.1",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
